@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Login Activity</string>
+    <string name="app_name">LOGIN ACTIVITY</string>
     <string name="user_pass">Please enter your username and\npassword below to login:</string>
     <string name="user_name">Enter your username:</string>
     <string name="pass_word">Enter your password:</string>

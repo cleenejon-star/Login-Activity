@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
                 return@setOnClickListener
             }
 
-            val hardcodedUsername = "Candol123"
+            val hardcodedUsername = "Admin123"
             val hardcodedPassword = "password123"
 
             if (username == hardcodedUsername && password == hardcodedPassword) {
